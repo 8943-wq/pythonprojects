@@ -1,0 +1,8 @@
+Muhammed sarıkaya:80,90,95
+Burak  özçivit:100,95,97
+thomas edison:80,40,20
+cemal  ceylan :90,80,70
+cemal ceylan :90,80,70
+cemal  ceylan:80,70,40
+cemal  ceylan :80,90,90
+cemal  ceylan :90,90,90
